@@ -89,6 +89,10 @@ h1, h2{
 	float:left;
 }
 
+.gallery div p{
+	font-family:Bookman Old Style;
+	color:yellow;
+
 h3{
 	font-family:Times New Roman;
 	color:yellow;
