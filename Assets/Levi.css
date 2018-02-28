@@ -87,6 +87,9 @@ h1, h2{
 	width:500px;
 	height:500px;
 	float:left;
+	font-family:Bookman Old Style;
+	font-size:30px;
+	color:yellow;
 }
 
 h3{
