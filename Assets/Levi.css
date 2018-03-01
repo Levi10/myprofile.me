@@ -4,8 +4,8 @@ html{
 }
 
 body{
-	
-	background-color:#fb5151;
+	position:relative;
+	background-color:#9a9292;
 	border:5px dashed yellow;
 	margin:14px;
 }
@@ -29,7 +29,7 @@ button{
 	width:300px;
 	height:50px;
 	font-family:verdona;
-	background:linear-gradient(red, #4c0000);
+	background:linear-gradient(#ff4c4c, #4c0000);
 	margin-left:15px;
 	border:2px solid yellow;
 	font-size:20px;
@@ -87,7 +87,7 @@ h1, h2{
 	width:500px;
 	height:500px;
 	float:left;
-	font-family:Bookman Old Style; 
+	font-family:Bookman Old Style;
 	font-size:20px;
 	color:yellow;
 }
@@ -99,7 +99,9 @@ h3{
 
 .footer{
 	background:linear-gradient(red, black);	
-	
+	position:absolute;
+	bottom:0px;
+	width:100%;
 	
 }
 
