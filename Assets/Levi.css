@@ -6,7 +6,7 @@ html{
 body{
 	position:relative;
 	background-color:#9a9292;
-	border:5px dashed yellow;
+	border:5px dashed yellow; 
 	margin:14px;
 }
 
@@ -100,7 +100,7 @@ h3{
 .footer{
 	background:linear-gradient(red, black);	
 	position:absolute;
-	bottom:0px;
+	bottom:0px; 
 	width:100%;
 	
 }
